@@ -1,5 +1,5 @@
 {
-  "name": "zonghauilibrary",
+  "name": "@anthony123oppus/zongHaUI",
   "version": "0.0.1",
   "description": "zongha components library",
   "scripts": {
@@ -24,5 +24,8 @@
   "types": "dist/index.d.ts",
   "files": [
     "dist"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/anthony123oppus"
+  }
 }
